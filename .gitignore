@@ -5,6 +5,7 @@ azure.err
 iisnode.yml
 
 #dotenv
+.env
 .strong-pm
 
 # Logs
